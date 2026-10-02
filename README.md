@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/camerondarius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camerondarius_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cameron-crawley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-crawley/" height="30" width="40" /></a>
-<a href="https://cameronc.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cameron-crawley" height="30" width="40" /></a>
+<a href="https://cameronc.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Tech Stack:</h3>
