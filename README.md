@@ -5,15 +5,15 @@
   <tr>
     <td align="left" width="50%" valign="top">
       <h3>Connect with me:</h3>
-      <p>
+      <p align="left">
         <a href="https://twitter.com/camerondarius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camerondarius_" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/cameron-crawley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-crawley/" height="30" width="40" /></a>
         <a href="https://cameronc.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="portfolio" height="30" width="40" /></a>
       </p>
     </td>
     <td align="right" width="50%" valign="top">
-      <h3>Tech Stack:</h3>
-      <p>
+      <h3 align="right">Tech Stack:</h3>
+      <p align="right">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
         </a>
