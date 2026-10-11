@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Hi 👋🏾, I'm Cameron Crawley, a freelance Full-Stack Engineer from New York with a background in social services. Through my personal endeavors, such as building web applications for the same people I use to serve, I'm trying to bridge the gap between the disadvantaged and technology. Through leaning into community im trying to teach people the same skills that have gotten me success in the tech industry. As a former public service advocate im using my talents to host events in the NYC area to help strengthen people's bonds, connections, and, most importantly, confidence in the tech world. </h3>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
+<table aligin ="center"width="100%" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="left" style="width: 50%; vertical-align: top; border: none;">
       <h3>Connect with me:</h3>
