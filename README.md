@@ -13,7 +13,7 @@
         </p>
       </td>
       <td align="right" width="50%" valign="top">
-        <h3 align="right">Tech Stack:</h3>
+        <h3 align="left">Tech Stack:</h3>
         <p align="right">
           <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
