@@ -36,5 +36,6 @@
   </a>
 </p>
 
-
+<section align="center"> 
 <img src="https://media.tenor.com/fEFl-pwMDW0AAAAM/jarvis.gif">
+</section>
