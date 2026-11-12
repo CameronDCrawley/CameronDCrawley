@@ -27,4 +27,7 @@
 
 <section align="center"> 
 <img src="https://media.tenor.com/fEFl-pwMDW0AAAAM/jarvis.gif">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=CameronDCrawley)](https://git.io/streak-stats)</section>
+  </section>
+  <section>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=CameronDCrawley)](https://git.io/streak-stats)
+  </section>
